@@ -1,0 +1,15 @@
+C:\Projects\Decagon\11b\CSharpTutorial\CSharpTutorial\bin\Debug\net6.0\CSharpTutorial.exe
+C:\Projects\Decagon\11b\CSharpTutorial\CSharpTutorial\bin\Debug\net6.0\CSharpTutorial.deps.json
+C:\Projects\Decagon\11b\CSharpTutorial\CSharpTutorial\bin\Debug\net6.0\CSharpTutorial.runtimeconfig.json
+C:\Projects\Decagon\11b\CSharpTutorial\CSharpTutorial\bin\Debug\net6.0\CSharpTutorial.dll
+C:\Projects\Decagon\11b\CSharpTutorial\CSharpTutorial\bin\Debug\net6.0\ref\CSharpTutorial.dll
+C:\Projects\Decagon\11b\CSharpTutorial\CSharpTutorial\bin\Debug\net6.0\CSharpTutorial.pdb
+C:\Projects\Decagon\11b\CSharpTutorial\CSharpTutorial\obj\Debug\net6.0\CSharpTutorial.csproj.AssemblyReference.cache
+C:\Projects\Decagon\11b\CSharpTutorial\CSharpTutorial\obj\Debug\net6.0\CSharpTutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Decagon\11b\CSharpTutorial\CSharpTutorial\obj\Debug\net6.0\CSharpTutorial.AssemblyInfoInputs.cache
+C:\Projects\Decagon\11b\CSharpTutorial\CSharpTutorial\obj\Debug\net6.0\CSharpTutorial.AssemblyInfo.cs
+C:\Projects\Decagon\11b\CSharpTutorial\CSharpTutorial\obj\Debug\net6.0\CSharpTutorial.csproj.CoreCompileInputs.cache
+C:\Projects\Decagon\11b\CSharpTutorial\CSharpTutorial\obj\Debug\net6.0\CSharpTutorial.dll
+C:\Projects\Decagon\11b\CSharpTutorial\CSharpTutorial\obj\Debug\net6.0\ref\CSharpTutorial.dll
+C:\Projects\Decagon\11b\CSharpTutorial\CSharpTutorial\obj\Debug\net6.0\CSharpTutorial.pdb
+C:\Projects\Decagon\11b\CSharpTutorial\CSharpTutorial\obj\Debug\net6.0\CSharpTutorial.genruntimeconfig.cache
